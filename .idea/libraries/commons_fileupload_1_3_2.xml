@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-fileupload-1.3.2">
+    <CLASSES>
+      <root url="jar://D:/chrome下载/commons-fileupload-1.3.2.jar!/" />
+      <root url="jar://D:/chrome下载/commons-io-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

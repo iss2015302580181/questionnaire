@@ -1,0 +1,34 @@
+@media screen and (min-width: 800px) and (max-width:1200px){
+    .row{
+        padding-top: 500px;
+    }
+    body{
+        font-size: 3rem;
+    }
+}
+@media screen and (min-width: 1200px){
+    .row{
+        padding-top: 10%;
+    }
+}
+body{
+    font-size: 1.6rem;
+}
+img{
+    width: 80%;
+}
+#login{
+    width: 100%;
+}
+.upload{
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #e6f0fa;
+    margin-bottom: 20px;
+}
+.upload span{
+    font-size: 1.6rem;
+    margin-top: 10px;
+}
+
+

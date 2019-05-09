@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pro">
+    <output-path>$PROJECT_DIR$/out/artifacts/pro</output-path>
+    <root id="archive" name="pro.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="questionnaire" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.7-bin" />
+          <element id="library" level="project" name="commons-beanutils-1.7.0" />
+          <element id="library" level="project" name="commons-fileupload-1.3.2" />
+          <element id="library" level="project" name="poi-3.11-20141221" />
+          <element id="library" level="project" name="xmlbeans-2.6.0" />
+          <element id="library" level="project" name="poi-ooxml-schemas-3.11-20141221" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="questionnaire/web/Web" />
+    </root>
+  </artifact>
+</component>

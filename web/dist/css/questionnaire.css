@@ -1,0 +1,122 @@
+@media screen and (min-width: 800px) and (max-width:1200px){
+    /*.row{*/
+        /*font-size: 3rem;*/
+    /*}*/
+    /*.back .item-top .item-top-outOfDate .item-bot .groups .groupQuess .quesContent .userContent .addEle{*/
+        /*font-size: 3rem;*/
+    /*}*/
+    body{
+        font-size: 3rem;
+    }
+}
+@media screen and (min-width: 1200px){
+    .back .item-top .item-top-outOfDate .item-bot .groups .groupQuess .quesContent .userContent .addEle{
+        font-size: 1.6rem;
+    }
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+.back {
+    float: right;
+    margin-top: 10px;
+}
+
+.header {
+    height: 60px;
+    background-color: #0078c8;
+    color: white;
+}
+
+.questionnaire {
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #e6f0fa;
+    margin-bottom: 20px;
+}
+
+.item-top {
+    padding: 10px;
+    background-color: #e6f0fa;
+}
+
+.item-top-outOfDate {
+    padding: 10px;
+    background-color: #ffcece;
+}
+
+.item-bot {
+    padding: 15px;
+    color: blue;
+}
+
+.questionnaires {
+    margin-top: 0px;
+}
+
+.group {
+    margin: 10px;
+}
+
+.groups {
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #e6f0fa;
+}
+
+.groupQuess {
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #e6f0fa;
+}
+
+.noQues {
+    font-size: 3rem;
+    /*margin: 0 auto;*/
+}
+
+.quesContent {
+    font-weight: bold;
+}
+
+.list-group {
+    list-style: decimal inside;
+}
+
+.list-group-item {
+    display: list-item;
+}
+
+.addEle {
+    color: blue;
+    padding: 10px;
+}
+
+.userContent {
+    color: white;
+    padding: 20px 40px 20px 20px;
+    float: right;
+}
+
+.userContent .username {
+    margin-right: 30px;
+}
+.userContent a {
+   color: white;
+}
+
+img {
+    height: 300px;
+    margin-top: -20px;
+}
+.option{
+    padding-right: 10px;
+}
+.myWarning{
+    padding-top: 20px;
+    color: red;
+}
